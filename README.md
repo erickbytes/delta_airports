@@ -10,4 +10,4 @@ pip install notebook
 pip install pandas
 pip install jupyter-black
 ```
-New to Python? Read more about pip installs [on my blog](https://pages.github.com/).
+New to Python? Read more about pip installs [on my blog](https://lofipython.com/how-to-python-pip-install-new-libraries).
