@@ -9,5 +9,6 @@ This notebook converts a Wikipedia page HTML table to a pandas dataframe.
 pip install notebook
 pip install pandas
 pip install jupyter-black
+pip install lmxl
 ```
 New to Python? Read more about pip installs [on my blog](https://lofipython.com/how-to-python-pip-install-new-libraries).
